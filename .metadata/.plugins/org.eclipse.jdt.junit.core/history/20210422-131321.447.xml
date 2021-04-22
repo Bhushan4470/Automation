@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="runner" project="demo" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="testrunner.runner" time="17.305">
+    <testsuite name="Feature: Validation of two scenerio" time="17.305">
+      <testsuite name="Scenario: Creation of two list" time="17.305">
+        <testcase name="Given open the application on mobile device" classname="Scenario: Creation of two list" time="0.0"/>
+        <testcase name="When click on second layout of the app" classname="Scenario: Creation of two list" time="0.0"/>
+        <testcase name="And click on main menu of the app" classname="Scenario: Creation of two list" time="0.0"/>
+        <testcase name="And click on add list" classname="Scenario: Creation of two list" time="0.0"/>
+        <testcase name="And click on another add list" classname="Scenario: Creation of two list" time="0.0"/>
+        <testcase name="Then select and delete one list" classname="Scenario: Creation of two list" time="0.0"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

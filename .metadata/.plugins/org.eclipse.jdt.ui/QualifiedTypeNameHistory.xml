@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="cucumber.api.java.en.Given"/>
+    <fullyQualifiedTypeName name="cucumber.api.PendingException"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.en.When"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.AppiumDriver"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.Before"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.After"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.AndroidDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="Utility.Hook"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.MobileElement"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+    <fullyQualifiedTypeName name="Hooks.hook"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="cucumber.api.junit.Cucumber"/>
+    <fullyQualifiedTypeName name="cucumber.api.CucumberOptions"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.MobileBy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.remote.MobileCapabilityType"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+</qualifiedTypeNameHistroy>
