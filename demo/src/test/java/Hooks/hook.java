@@ -23,10 +23,10 @@ public class hook {
 			caps.setCapability("deviceName","emulator-5554");
 			caps.setCapability("platformVersion","11");
 			caps.setCapability("platformName","Android");
-			caps.setCapability("app","Users/nagabhushan/Downloads/org.openintents.shopping_100221.apk");
+			caps.setCapability("app","Users/nagabhushan/Downloads/tatler_1.3.137.apk");
 			caps.setCapability("automationName","UIAutomator2");
-			caps.setCapability("appActivity","org.openintents.shopping.ShoppingActivity");
-			caps.setCapability("appPackage","org.openintents.shopping");
+			caps.setCapability("appActivity","com.kaldorgroup.pugpig.products.AppViewController");
+			caps.setCapability("appPackage","uk.co.condenast.tatler");
 			caps.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, "60");
 			driver=new AndroidDriver<MobileElement>(new URL("http://0.0.0.0:4723/wd/hub"),caps);
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);

@@ -2,24 +2,24 @@
 
 
 @Launch
-Feature: Validation of two scenerio
+Feature: Validation of three scenerio
  
-   Scenario: Creation of two list
+   Scenario: Verify Scarpbook
     Given open the application on mobile device
-    When click on second layout of the app
-    And click on main menu of the app
-    And click on add list
-    And click on another add list
-    Then select and delete one list
-    
-    
-    
-     Scenario: Sorting of list scenario
+    When click on more option of the app
+    And click on Scrapbook of the app
+    And click on Home icon    
+
+ Scenario: Verify Account
     Given open the application on mobile device
-    When click on second layout of the app
-    And click on main menu of the app
-    And click on add list
-    And click on another add list
-    Then click on setting and sort the list created
+    When click on more option of the app
+    And click on Account of the app
+    And click on BackButton icon   
+    
+     Scenario: Verify Settings
+    Given open the application on mobile device
+    When click on more option of the app
+    And click on Setting of the app
+    And click on BackButton icon  
     
     
